@@ -2,6 +2,14 @@
 
 A simple, interactive application that allows users to search for Pokémon by name and view basic details about each one. This project uses the PokéAPI to fetch data, providing a seamless way to explore different Pokémon and their characteristics.
 
+## Live Demo
+
+You can try the app live by visiting the following link:
+[Pokemon Search App](https://orasanuana.github.io/Pokemon_Search_App/)
+
+Feel free to search for your favorite Pokémon and explore their details! 🚀
+
+
 ## Overview
 
 This application allows users to search for Pokémon by name or ID and view relevant details for each one. Below are some screenshots illustrating the app's main functionalities:
